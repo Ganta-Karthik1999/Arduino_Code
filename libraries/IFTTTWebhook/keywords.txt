@@ -1,2 +1,0 @@
-IFTTTWebhook	KEYWORD1
-trigger	KEYWORD2
